@@ -82,7 +82,6 @@ function clickDroit() {
   });
 }
 
-//J'appelle ma fonction clickDroit()
 clickDroit();
 
 function clickGauche() {
